@@ -5,10 +5,13 @@ repo: urvana-upptime # The name of this repository
 sites:
   - name: API Health
     url: https://urvana.net/api/health
+    maxResponseTime: 3000
   - name: Landing page
     url: https://urvana.net
+    maxResponseTime: 5000
   - name: Supabase bucket
     url: https://adxcdfekysrkrquykrdy.supabase.co/storage/v1/object/public/assets/logo.png
+    maxResponseTime: 3000
 
 assignees: # Users to assign downtime issues (optional)
   - lopezjurip
@@ -21,13 +24,17 @@ status-website:
   baseUrl: /urvana-upptime
   logoUrl: https://adxcdfekysrkrquykrdy.supabase.co/storage/v1/object/public/assets/logo.png
   name: URVANA
-  introTitle: "**URVANA** — sistema operativo para el desarrollo inmobiliario"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**[URVANA](https://urvana.net?ref=status)** — sistema operativo para el desarrollo inmobiliario"
+  introMessage: "Página es status abierta."
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Twitter
+      href: https://twitter.com/urvana_net
+    - title: Inicio
+      href: https://urvana.net?ref=status
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
