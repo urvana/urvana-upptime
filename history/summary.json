@@ -40,17 +40,19 @@
     "url": "https://adxcdfekysrkrquykrdy.supabase.co/storage/v1/object/public/assets/logo.png",
     "icon": "https://favicons.githubusercontent.com/adxcdfekysrkrquykrdy.supabase.co",
     "slug": "supabase-bucket",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1212,
-    "timeDay": 1175,
-    "timeWeek": 1212,
-    "timeMonth": 1212,
-    "timeYear": 1212,
-    "dailyMinutesDown": {}
+    "time": 1235,
+    "timeDay": 1262,
+    "timeWeek": 1235,
+    "timeMonth": 1235,
+    "timeYear": 1235,
+    "dailyMinutesDown": {
+      "2022-08-15": 0
+    }
   }
 ]
