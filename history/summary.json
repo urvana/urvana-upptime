@@ -4,9 +4,9 @@
     "url": "https://urvana.net/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/urvana.net.ico",
     "slug": "api-health",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 2030,
     "timeYear": 2076,
     "dailyMinutesDown": {
+      "2022-11-15": 0,
       "2022-08-17": 25
     }
   },
