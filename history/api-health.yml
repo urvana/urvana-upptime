@@ -1,7 +1,7 @@
 url: https://urvana.net/api/health
-status: up
+status: degraded
 code: 200
-responseTime: 2810
-lastUpdated: 2023-04-01T23:12:40.344Z
+responseTime: 3712
+lastUpdated: 2023-04-01T23:20:42.401Z
 startTime: Fri Aug 12 2022 16:21:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
