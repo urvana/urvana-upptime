@@ -27,7 +27,7 @@
     "url": "https://urvana.net",
     "icon": "https://icons.duckduckgo.com/ip3/urvana.net.ico",
     "slug": "landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -39,6 +39,7 @@
     "timeMonth": 59,
     "timeYear": 164,
     "dailyMinutesDown": {
+      "2024-01-03": 0,
       "2023-11-17": 7
     }
   },
@@ -48,18 +49,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/adxcdfekysrkrquykrdy.supabase.co.ico",
     "slug": "supabase-bucket",
     "status": "down",
-    "uptime": "75.47%",
+    "uptime": "75.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "65.85%",
+    "uptimeYear": "65.59%",
     "time": 595,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 426,
     "dailyMinutesDown": {
-      "2024-01-03": 25,
+      "2024-01-03": 1375,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
