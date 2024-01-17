@@ -1,7 +1,7 @@
 url: https://urvana.net
-status: up
-code: 200
-responseTime: 150
-lastUpdated: 2024-01-16T23:14:03.325Z
+status: down
+code: 500
+responseTime: 1082
+lastUpdated: 2024-01-17T21:43:30.988Z
 startTime: 2022-08-12T16:21:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
