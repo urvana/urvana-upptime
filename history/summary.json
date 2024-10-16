@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1579,
-    "timeDay": 1995,
-    "timeWeek": 1671,
-    "timeMonth": 1608,
-    "timeYear": 1441,
+    "time": 1577,
+    "timeDay": 266,
+    "timeWeek": 1446,
+    "timeMonth": 1557,
+    "timeYear": 1437,
     "dailyMinutesDown": {
       "2024-05-23": 6,
       "2024-01-17": 16,
@@ -35,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 123,
-    "timeDay": 145,
-    "timeWeek": 42,
-    "timeMonth": 43,
+    "timeDay": 13,
+    "timeWeek": 39,
+    "timeMonth": 40,
     "timeYear": 114,
     "dailyMinutesDown": {
       "2024-04-22": 5,
@@ -52,18 +52,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/adxcdfekysrkrquykrdy.supabase.co.ico",
     "slug": "supabase-bucket",
     "status": "down",
-    "uptime": "48.30%",
+    "uptime": "48.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 371,
+    "time": 370,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-15": 0,
+      "2024-10-16": 0,
+      "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
@@ -426,8 +427,7 @@
       "2023-10-21": 1440,
       "2023-10-20": 1440,
       "2023-10-19": 1440,
-      "2023-10-18": 1440,
-      "2023-10-17": 1440
+      "2023-10-18": 1440
     }
   }
 ]
