@@ -1,7 +1,7 @@
 url: https://adxcdfekysrkrquykrdy.supabase.co/storage/v1/object/public/assets/logo.png
-status: down
+status: degraded
 code: 500
-responseTime: 661
-lastUpdated: 2025-06-11T23:05:14.327Z
+responseTime: 3458
+lastUpdated: 2025-06-12T17:54:56.132Z
 startTime: 2022-08-12T16:21:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
