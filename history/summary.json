@@ -4,9 +4,9 @@
     "url": "https://urvana.net/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/urvana.net.ico",
     "slug": "api-health",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.96%",
@@ -16,6 +16,7 @@
     "timeMonth": 3034,
     "timeYear": 1929,
     "dailyMinutesDown": {
+      "2025-07-12": 0,
       "2025-07-02": 13,
       "2025-06-25": 12,
       "2025-06-12": 129,
@@ -30,9 +31,9 @@
     "url": "https://urvana.net",
     "icon": "https://icons.duckduckgo.com/ip3/urvana.net.ico",
     "slug": "landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -42,6 +43,7 @@
     "timeMonth": 31,
     "timeYear": 39,
     "dailyMinutesDown": {
+      "2025-07-12": 0,
       "2025-03-05": 7,
       "2025-01-05": 5
     }
@@ -52,7 +54,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/adxcdfekysrkrquykrdy.supabase.co.ico",
     "slug": "supabase-bucket",
     "status": "down",
-    "uptime": "36.05%",
+    "uptime": "36.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -63,7 +65,7 @@
     "timeMonth": 1234,
     "timeYear": 1242,
     "dailyMinutesDown": {
-      "2025-07-12": 0,
+      "2025-07-12": 1056,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
