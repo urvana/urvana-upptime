@@ -11,10 +11,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
     "time": 1799,
-    "timeDay": 1698,
-    "timeWeek": 1996,
-    "timeMonth": 2475,
-    "timeYear": 1937,
+    "timeDay": 687,
+    "timeWeek": 1882,
+    "timeMonth": 2448,
+    "timeYear": 1933,
     "dailyMinutesDown": {
       "2025-07-18": 8,
       "2025-07-12": 8,
@@ -39,8 +39,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 42,
-    "timeDay": 84,
-    "timeWeek": 28,
+    "timeDay": 14,
+    "timeWeek": 27,
     "timeMonth": 32,
     "timeYear": 38,
     "dailyMinutesDown": {
@@ -56,18 +56,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/adxcdfekysrkrquykrdy.supabase.co.ico",
     "slug": "supabase-bucket",
     "status": "down",
-    "uptime": "35.71%",
+    "uptime": "35.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1217,
-    "timeDay": 952,
+    "time": 1215,
+    "timeDay": 832,
     "timeWeek": 750,
-    "timeMonth": 974,
-    "timeYear": 1217,
+    "timeMonth": 860,
+    "timeYear": 1215,
     "dailyMinutesDown": {
-      "2025-07-22": 0,
+      "2025-07-23": 0,
+      "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
@@ -430,8 +431,7 @@
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
-      "2024-07-24": 1440,
-      "2024-07-23": 1440
+      "2024-07-24": 1440
     }
   }
 ]
