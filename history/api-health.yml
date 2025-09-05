@@ -1,7 +1,7 @@
 url: https://urvana.net/api/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-05T07:34:45.838Z
+status: up
+code: 200
+responseTime: 717
+lastUpdated: 2025-09-05T07:40:58.265Z
 startTime: 2022-08-12T16:21:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
